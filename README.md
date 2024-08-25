@@ -16,7 +16,7 @@ const George = {
 
   tools: [HTML, CSS, SASS, React.js, Node.js, Express.js,Next.js],
 
-  cloud: [AWS-S3, AWS-CloudFront, AWS-EC2, AWS-EBS, AWS-Lambda, AWS-CodePipeline, AWS-CodeBuild, AWS-CodeDeploy],
+  cloud: [AWS],
   
   databases: [MySQL, MongoDB, Postgre]
 
