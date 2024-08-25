@@ -12,11 +12,11 @@ const George = {
 
   pronouns: "he" | "him",
   
-  code: [Javascript, HTML, CSS, SCSS, Python, Java, C, C++],
+  code: [Javascript, Python, Java, C++],
 
-  tools: [HTML, CSS, SASS, React.js, Node.js, Express.js,Next.js],
+  tools: [Next.js, CSS,React.js, Node.js, Express.js],
 
-  cloud: [AWS],
+  cloud & Deployment: [AWS, Kubernetes, Docker, Jenkins],
   
   databases: [MySQL, MongoDB, Postgre]
 
